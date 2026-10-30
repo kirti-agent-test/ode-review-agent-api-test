@@ -8,3 +8,4 @@ def average(numbers):
 
 
 print(divide(10, 0))
+print(average([]))
